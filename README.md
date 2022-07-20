@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/@hemantk61956752" target="blank"><img src="https://img.shields.io/twitter/follow/@hemantk61956752?logo=twitter&style=for-the-badge" alt="@hemantk61956752" /></a> </p>
 
-- 🌱 I’m currently learning **C++ and Android Development**
+- 🌱 I’m currently learning **DSA and Frame work of Web-Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemantkumar76](https://github.com/hemantkumar76)
 
