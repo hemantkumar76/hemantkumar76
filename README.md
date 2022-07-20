@@ -18,7 +18,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/15Clj1op6IU_Kj72wTu-kXuOwT0p9-Opk/view](https://drive.google.com/file/d/15Clj1op6IU_Kj72wTu-kXuOwT0p9-Opk/view)
 
 - ⚡ Fun fact **professional CSS hater [].forEach.call($$(""),function(a){a.style.outline="1px solid #"+(~~(Math.random()(1<<24))).toString(16)})**
+#snake wala graph
+![snake gif](https://github.com/hemantkumar76/hemantkumar76/blob/output/github-contribution-grid-snake.gif)
 
+#connections wala
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hemantk61956752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hemantk61956752" height="30" width="40" /></a>
