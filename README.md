@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I Am ,+Hemant+Kumar!,+A Frontend Developer!;+&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I Am ,+Hemant+Kumar!;+&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">An Intrested Coder and Developer from India that believes in the power of community.</h3>
