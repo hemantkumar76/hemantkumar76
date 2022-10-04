@@ -2,10 +2,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself,+Hemant+Kumar!;+&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I Am ,+Hemant+Kumar!,+A Frontend Developer!;+&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A Intrested Coder and Developer from India that believes in the power of community.</h3>
+<h3 align="center">An Intrested Coder and Developer from India that believes in the power of community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar76" /> </p>
 
