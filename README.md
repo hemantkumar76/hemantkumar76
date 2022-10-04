@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+This+Is+Hemant+Kumar!;+&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">An Intrested Coder and Developer from India that believes in the power of community.</h3>
+<h3 align="center">An Interested Coder and Developer from India that believes in the power of community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar76" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15Clj1op6IU_Kj72wTu-kXuOwT0p9-Opk/view](https://drive.google.com/file/d/15Clj1op6IU_Kj72wTu-kXuOwT0p9-Opk/view)
 
-- ⚡ Fun fact **professional CSS hater [].forEach.call($$(""),function(a){a.style.outline="1px solid #"+(~~(Math.random()(1<<24))).toString(16)})**
+- ⚡**professional CSS hater [].forEach.call($$(""),function(a){a.style.outline="1px solid #"+(~~(Math.random()(1<<24))).toString(16)})**
 
                                     MY CONTRIBUTITION ON GITHUB(THROUGH AN ANIMATION) 
 ![snake gif](https://github.com/hemantkumar76/hemantkumar76/blob/output/github-contribution-grid-snake.gif)
