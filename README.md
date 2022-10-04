@@ -7,6 +7,10 @@
 </h1>
 <h3 align="center">An Interested Coder and Developer from India that believes in the power of community.</h3>
 
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Full%20Stack%20Web%20Developer+👨‍💻;DS%20|%20AI%20|%20ML%20Enthusiast+🤓;👨🏻‍💻+Competitive%20Coder+🖥️;😇+Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar76" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantkumar76" alt="hemantkumar76" /></a> </p>
