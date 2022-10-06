@@ -94,5 +94,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantkumar76&" alt="hemantkumar76" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantkumar76&"&center=truealt="hemantkumar76" /></p>
 
