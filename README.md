@@ -9,7 +9,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Frontend%20Web%20Developer+👨‍💻;DSA%20|%20AI%20Enthusiast+🤓;👨🏻‍💻+Loves%20Coding+🖥️;😇+Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250" height="250"/>
+  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="250" height="250"/>
 </div>
 <h3 align="center">An Interested Coder and Developer from India who believes in the power of community.</h3>
 
