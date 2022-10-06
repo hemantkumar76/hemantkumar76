@@ -79,7 +79,7 @@
 
 
 
-<h3 align="left"><img src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-10.gif" width="35">GitHub Analytics:-</h3>
+<h3 align="left"><img src="https://gifimage.net/wp-content/uploads/2018/05/setting-icon-gif-10.gif" width="35">  GitHub Analytics:-</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkumar76&show_icons=true&locale=en&layout=compact" alt="hemantkumar76" /></p>
 
