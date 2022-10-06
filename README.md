@@ -17,6 +17,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantkumar76" alt="hemantkumar76" /></a> </p>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <p align="left"> <a href="https://twitter.com/@hemantk61956752" target="blank"><img src="https://img.shields.io/twitter/follow/@hemantk61956752?logo=twitter&style=for-the-badge" alt="@hemantk61956752" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and Frame work of Web-Development**
