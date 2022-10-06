@@ -34,7 +34,7 @@
                                     MY CONTRIBUTITION ON GITHUB(THROUGH AN ANIMATION) 
                                     
 ![snake gif](https://github.com/hemantkumar76/hemantkumar76/blob/output/github-contribution-grid-snake.gif)
-<h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct" width="50">&nbsp;Connect with me:</h3>
+<h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct" width="50">&nbsp;Connect with me:-</h3>
 
 
 
