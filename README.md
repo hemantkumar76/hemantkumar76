@@ -47,7 +47,7 @@
 
 
 
-<### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkumar76&show_icons=true&locale=en&layout=compact" alt="hemantkumar76" /></p>
 
