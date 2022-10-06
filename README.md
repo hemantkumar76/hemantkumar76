@@ -8,6 +8,9 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Frontend%20Web%20Developer+👨‍💻;DSA%20|%20AI%20Enthusiast+🤓;👨🏻‍💻+Loves%20Coding+🖥️;😇+Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250" height="250"/>
+</div>
 <h3 align="center">An Interested Coder and Developer from India who believes in the power of community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar76&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar76" /> </p>
