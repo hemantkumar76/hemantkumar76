@@ -79,7 +79,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics:-
+<h3 align="left"><img src="https://durfeelawgroup.com/wp-content/uploads/2014/09/webview.gif" width="50">GitHub Analytics:-</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkumar76&show_icons=true&locale=en&layout=compact" alt="hemantkumar76" /></p>
 
