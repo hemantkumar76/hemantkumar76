@@ -67,7 +67,7 @@
 <a href="https://fb.com/hemant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemant kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/@hemant_kumar76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hemant_kumar76" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@hemanthku01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hemanthku01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hemanthku01/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="@hemanthku01" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hemanthku01/practice" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="@hemanthku01" height="30" width="30" /></a>
 </p>
 
 
