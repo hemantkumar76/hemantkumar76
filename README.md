@@ -62,7 +62,7 @@
 
 
 <p align="left">
-<a href="https://twitter.com/@hemantk61956752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hemantk61956752" height="30" width="40" /></a>
+<a href="https://twitter.com/@hemantk61956752" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hemantk61956752" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hemant-kumar-299435230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant kumar" height="30" width="40" /></a>
 <a href="https://fb.com/hemant kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemant kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/@hemant_kumar76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hemant_kumar76" height="30" width="40" /></a>
