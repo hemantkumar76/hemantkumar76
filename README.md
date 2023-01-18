@@ -41,7 +41,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA and Frame work of Web-Development**
+- 🌱 I’m currently learning **Core subjects of CSE and working on research paper of ML on topic Soft computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemantkumar76](https://github.com/hemantkumar76)
 
