@@ -54,7 +54,7 @@
 - ⚡**professional CSS hater [].forEach.call($$(""),function(a){a.style.outline="1px solid #"+(~~(Math.random()(1<<24))).toString(16)})**
 
 
-[![@hemantkumar76's Holopin board](https://holopin.io/api/user/board?user=hemantkumar76)](https://www.holopin.io/@hemantkumar76#badges)
+[![@hemantkumar76's Holopin board](https://holopin.me/hemantkumar76)](https://www.holopin.io/@hemantkumar76)
 
 
                                     MY CONTRIBUTITION ON GITHUB(THROUGH AN ANIMATION) 
