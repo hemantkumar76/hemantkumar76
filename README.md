@@ -2,18 +2,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+😀;+This+Is+Hemant+Kumar!;+&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+😀;+This+Is+Hemant+Kumar!;&center=true&size=30">
   </a>
 </h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Frontend%20Web%20Developer+👨‍💻;DSA%20|%20AI%20Enthusiast+🤓;👨🏻‍💻+Loves%20Coding+🖥️;😇+Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Frontend+Web+Developer+👨‍💻;DSA+|%20AI+Enthusiast+🤓;👨🏻‍💻+Loves+Coding+🖥️;😇+Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2NzIzMzAsIm5iZiI6MTcwNzY3MjAzMCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjExVDE3MjAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkY2Y4YzZlNmJhYjcxYjNiM2MzZWI3Yjc4ZmEyMDk3NGQxZGIwN2EyNmM1YzE3ZjZkYTQwMmVlNmQ4N2UwZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OtJ4Le4XciA7bV5nFlW0iHOcXQ__5SrxXsZLw5SkxpQ" width="350" height="250"/>
-</div>
+ <p align="center">
+  <img src="https://github.com/hemantkumar76/Profile-Gif/blob/main/github_gif.gif?raw=true" width="450" height="350" />
+</p>
 
+<h3 align="center">〖 An Interested Coder and Developer from India who believes in the power of community. 〗</h3>
 
-<h3 align="center">〖 𝐀𝐧 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐂𝐨𝐝𝐞𝐫 𝐚𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚 𝐰𝐡𝐨 𝐛𝐞𝐥𝐢𝐞𝐯𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐩𝐨𝐰𝐞𝐫 𝐨𝐟 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲. 〗</h3>
 
 
 
