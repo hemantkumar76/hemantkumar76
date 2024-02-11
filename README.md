@@ -6,11 +6,11 @@
   </a>
 </h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;Frontend+Web+Developer+👨‍💻;DSA+|%20AI+Enthusiast+🤓;👨🏻‍💻+Loves+Coding+🖥️;😇+Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;⛄️+Loves+Machine+Learning+and+Deep+Learning+🤸🏻‍♀️;Frontend+Web+Developer+👨‍💻;DSA+|%20AI+Enthusiast+🤓;👨🏻‍💻+Loves+Coding+🖥️;😇+Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 <div id="header" align="center">
  <p align="center">
-  <img src="https://github.com/hemantkumar76/Profile-Gif/blob/main/github_gif.gif?raw=true" width="450" height="350" />
+  <img src="https://github.com/hemantkumar76/Profile-Gif/blob/main/github_gif.gif?raw=true" width="300" height="300" />
 </p>
 
 <h3 align="center">〖 An Interested Coder and Developer from India who believes in the power of community. 〗</h3>
@@ -61,7 +61,7 @@
 [![@hemantkumar76's Holopin board](https://holopin.me/hemantkumar76)](https://holopin.io/@hemantkumar76)
 
 
-                                       MY CONTRIBUTITION ON GITHUB(THROUGH AN ANIMATION) 
+                                   MY CONTRIBUTITION ON GITHUB(THROUGH AN ANIMATION) 
                                     
 ![snake gif](https://github.com/hemantkumar76/hemantkumar76/blob/output/github-contribution-grid-snake.gif)
 <h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct" width="50">&nbsp;Connect with me:-</h3>
