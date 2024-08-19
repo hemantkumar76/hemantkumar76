@@ -10,9 +10,9 @@
 
 
 <p align="top">
- <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="150" height="150" style="border-radius: 20px;"/>
-<img src="https://github.com/user-attachments/assets/803fa240-2120-44e4-87a7-aed89ec41ceb " width="150" height="150" style="border-radius: 20px;"/>
-<img src="https://github.com/user-attachments/assets/b933d6d0-5ccd-4462-bb48-200f05504095" width="150" height="150" style="border-radius: 20px;"/>
+ <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" style="width: 100px; height: 100px; border-radius: 20px; object-fit: cover;"/>
+ <img src="https://github.com/user-attachments/assets/803fa240-2120-44e4-87a7-aed89ec41ceb" style="width: 100px; height: 100px; border-radius: 20px; object-fit: cover;"/>
+ <img src="https://github.com/user-attachments/assets/b933d6d0-5ccd-4462-bb48-200f05504095" style="width: 100px; height: 100px; border-radius: 20px; object-fit: cover;"/>
 </p>
 
 
