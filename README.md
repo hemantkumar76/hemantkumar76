@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hemantkumar76">
+![2024-100-new_leetcode](https://github.com/user-attachments/assets/e5d4dff6-09b1-4860-aa50-46308cadf283)![2024-200_leetcode](https://github.com/user-attachments/assets/811df9ea-b6d0-4f68-a7a0-22a0c3d44998)![2024-200_leetcode](https://github.com/user-attachments/assets/b90cb991-2296-4705-bde5-45d80f887937)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hemantkumar76">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,11 +7,16 @@
 </h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Computer+Science+Student+👨🏻‍💻;⛄️+Loves+Machine+Learning+and+Deep+Learning+🤸🏻‍♀️;Frontend+Web+Developer+👨‍💻;DSA+|%20AI+Enthusiast+🤓;👨🏻‍💻+Loves+Coding+🖥️;😇+Always+learning+new+things&center=true&width=500&height=50"></a>
+
+
+<p align="top">
+ <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="150" height="150" style="border-radius: 20px;"/>
+<img src="https://github.com/user-attachments/assets/803fa240-2120-44e4-87a7-aed89ec41ceb " width="150" height="150" style="border-radius: 20px;"/>
+<img src="https://github.com/user-attachments/assets/b933d6d0-5ccd-4462-bb48-200f05504095" width="150" height="150" style="border-radius: 20px;"/>
 </p>
-<div id="header" align="center">
- <p align="center">
-  <img src="https://github.com/hemantkumar76/Profile-Gif/blob/main/github_gif.gif?raw=true" width="300" height="300" />
-</p>
+
+
+
 
 <h3 align="center">〖 An Interested Coder and Developer from India who believes in the power of community. 〗</h3>
 
