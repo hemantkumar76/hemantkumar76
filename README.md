@@ -45,27 +45,23 @@
 
 
 
-- 🌱 I’m currently learning **Core subjects of CSE and working on research paper of ML on topic Soft computing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hemantkumar76](https://github.com/hemantkumar76)
-
-- 💬 Ask me about **Codings and it`s Suggestion**
-
-- 📫 How to reach me **hemanthku01@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Clj1op6IU_Kj72wTu-kXuOwT0p9-Opk/view](https://drive.google.com/file/d/15Clj1op6IU_Kj72wTu-kXuOwT0p9-Opk/view)
-
-- ⚡**professional CSS hater [].forEach.call($$(""),function(a){a.style.outline="1px solid #"+(~~(Math.random()(1<<24))).toString(16)})**
+<ul>
+<li> 🌱 <b>I’m currently learning</b> : <code>DSA</code>, <code>And</code>, <code>AL/ML</code></li>
+<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Data Science</code>, <code>Git/Github</code>,<code>Python/C++</code>, <code>SQL</code> </</li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/hemant-kumar-299435230/">LinkedIn</a></code>, <code><a href="https://x.com/HackerH19">Twitter</a></code>, <code><a href="mailto:hemanthku01@gmail.com">Email</a></code>, <code><a href="https://hemantkumar3-76.netlify.app/">Portfolio</a></code>, <code><a href="https://leetcode.com/u/hemantkumar76/">LEETCODE2</a></code>, <code><a href="https://www.youtube.com/@hemant6973">Youtube</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://hemantkumar3-76.netlify.app/">roshni</a></code></li>
+<li> 😄 <b>Pronouns</b>: ⚡**professional CSS hater [].forEach.call($$(""),function(a){a.style.outline="1px solid #"+(~~(Math.random()(1<<24))).toString(16)}) 
+</ul>
 
 
+## 🙌🏻 Badges
 
 [![@hemantkumar76's Holopin board](https://holopin.me/hemantkumar76)](https://holopin.io/@hemantkumar76)
 
 
-                                   MY CONTRIBUTITION ON GITHUB(THROUGH AN ANIMATION) 
-                                    
-![snake gif](https://github.com/hemantkumar76/hemantkumar76/blob/output/github-contribution-grid-snake.gif)
-<h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct" width="50">&nbsp;Connect with me:-</h3>
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+                        
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 
 
 
