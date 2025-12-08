@@ -48,9 +48,9 @@
 
 
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>DSA</code>, <code>And</code>, <code>AI/ML</code></li>
-<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Data Science</code>, <code>Git/Github</code>,<code>Python/C++</code>, <code>SQL</code> </</li>
-<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/hemant-kumar-299435230/">LinkedIn</a></code>, <code><a href="https://x.com/HackerH19">Twitter</a></code>, <code><a href="mailto:hemanthku01@gmail.com">Email</a></code>, <code><a href="https://hemantkumar3-76.netlify.app/">Portfolio</a></code>, <code><a href="https://leetcode.com/u/hemantkumar76/">LEETCODE2</a></code>, <code><a href="https://www.youtube.com/@hemant6973">Youtube</a></code></li>
+<li> 🌱 <b>I’m currently </b> : <code>Working as a Full Stack Developer at LTIMindtree</code></li>
+<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Data Science</code>, <code>Git/Github</code>,<code>Java/Spring Boot</code>, <code>Angular</code> </</li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/hemant-kumar-299435230/">LinkedIn</a></code>, <code><a href="https://x.com/HackerH19">Twitter</a></code>, <code><a href="mailto:hemanthku01@gmail.com">Email</a></code>, <code><a href="https://hemantkumar3-76.netlify.app/">Portfolio</a></code>, <code><a href="https://leetcode.com/u/hemantkumar76/">LeetCode</a></code>, <code><a href="https://www.youtube.com/@hemant6973">Youtube</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://hemantkumar3-76.netlify.app/">Hemant Kumar</a></code></li>
 <li> 😄 <b>Pronouns</b>: ⚡**professional CSS hater [].forEach.call($$(""),function(a){a.style.outline="1px solid #"+(~~(Math.random()(1<<24))).toString(16)}) 
 </ul>
